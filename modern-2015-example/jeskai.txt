@@ -1,1 +1,33 @@
-
+---
+name: Jeskai Tempo
+author: boltsnapbolt
+archetype: Control
+tags: [control, white, blue, red]
+source: https://example.com/decks/jeskai
+---
+// Main deck
+4 Serum Visions
+4 Lightning Bolt
+3 Lightning Helix
+2 Electrolyze
+4 Path to Exile
+1 Spell Snare
+4 Remand
+2 Mana Leak
+3 Cryptic Command
+2 Geist of Saint Traft
+2 Vendilion Clique
+4 Snapcaster Mage
+4 Scalding Tarn
+4 Flooded Strand
+1 Arid Mesa
+2 Steam Vents
+2 Hallowed Fountain
+1 Sacred Foundry
+2 Island
+1 Mountain
+1 Plains
+3 Celestial Colonnade
+2 Sulfur Falls
+2 Ghost Quarter
+//

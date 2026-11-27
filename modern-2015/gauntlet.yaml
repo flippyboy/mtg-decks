@@ -1,0 +1,4 @@
+schema_version: 1
+name: 2015 Modern gauntlet
+format: preset:2015-modern@1
+description: Modern 2015 gauntlet for proxying and playing

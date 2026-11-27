@@ -31,7 +31,7 @@ source: https://example.com/decks/jeskai
 3 Celestial Colonnade
 2 Sulfur Falls
 2 Ghost Quarter
-//
+
 1 Keranos, God of Storms
 2 Wear // Tear
 1 Stony Silence
